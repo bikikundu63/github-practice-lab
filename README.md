@@ -6,6 +6,8 @@ Welcome! This is my learning project for Git and GitHub.
 
 - [Task 1: What is Git and GitHub?](beginner-tasks/task-1-what-is-git.md)
 - [Task 2: Your First Commit](beginner-tasks/task-2-first-commit.md)
+- [Task 3: clone](beginner-tasks/task-3-clone.md)
+- [Task 4: branching](beginner-tasks/task-4-branching.md)
 
 ## 🗺️ Learning Path
 
